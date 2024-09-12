@@ -1,0 +1,28 @@
+body{background-color: lightgreen;}
+.text1{color: white;
+background-color: white;
+padding: 10px 50px 50px 200px;
+margin: 0px 400px 0px 400px;width: 400px;}
+
+
+.text2{background-color: white;
+padding: 10px 50px 50px 200px;
+margin: 0px 400px 0px 400px;width: 400px;}
+
+.text3{background-color: white;
+padding: 10px 50px 50px 200px;
+margin: 0px 400px 0px 400px;
+width: 400px;
+}
+
+.button1{color: white;
+background-color: lightgreen;
+margin: 0px 400px 0px 400px;
+padding: 10px 50px 10px 250px;
+;width: 400px;}
+
+.text4 {color: gray;
+background-color: white;
+margin: 0px 400px 0px 400px;
+padding: 10px 50px 50px 200px;
+width: 400px;}
